@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👋 Hey there! I'm **Laiba** 
@@ -14,31 +13,23 @@
 
 ## 🧬 **About Me**
 
-```python
-class FrontendDeveloper:
-    def __init__(self):
-        self.name = "Laiba"
-        self.location = "Pakistan 🇵🇰"
-        self.role = "Frontend Developer"
-        self.passion = ["AI Agents", "Machine Learning", "Beautiful UIs"]
-        self.current_focus = "Building AI-powered web applications"
-        
-    def get_tech_stack(self):
-        return {
-            "frontend": ["HTML", "CSS", "TypeScript", "Next.js"],
-            "styling": ["Tailwind CSS", "Responsive Design"],
-            "backend": ["Python", "API Integration"],
-            "ai_tools": ["Machine Learning", "AI Agents"],
-            "tools": ["Git", "VS Code", "Figma"],
-            "exploring": ["AI Agent Solutions", "ML Integration"]
-        }
-    
-    def current_mission(self):
-        return "Creating intuitive frontends powered by intelligent AI solutions 🚀"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-me = FrontendDeveloper()
-print(me.current_mission())
-```
+**👩‍💻 Frontend Developer from Pakistan**  
+**🎯 Passionate about AI & Beautiful User Interfaces**
+
+- 🌟 **Role:** Frontend Developer specializing in modern web technologies
+- 🏠 **Location:** Pakistan 🇵🇰
+- 💡 **Focus:** Building responsive, AI-powered web applications
+- 🎨 **Skills:** HTML, CSS, TypeScript, Next.js, Tailwind CSS, Python
+- 🤖 **Currently Exploring:** AI-agent solutions and machine learning integration
+- 🚀 **Mission:** Creating intuitive frontends powered by intelligent AI solutions
+
+**💻 What I Love:**
+- Crafting pixel-perfect, responsive designs
+- Integrating AI capabilities into web applications  
+- Optimizing performance in Next.js applications
+- Exploring new frontend technologies and AI tools
 
 ---
 
