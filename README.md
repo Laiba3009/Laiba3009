@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👋 Hey there! I'm **Laiba** 
-### `Frontend Developer` | `AI Enthusiast` | `Problem Solver`
+# 👋 Hey there! I'm **Laiba Jaweed** 
+### `💻 Frontend Developer | Learning Agentic AI Systems 🤖 `
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🎨+Crafting+beautiful+web+experiences;🤖+Exploring+AI-agent+solutions;⚡+Next.js+%26+TypeScript+Developer" alt="Typing Animation" />
 
@@ -13,7 +13,7 @@
 
 ## 🧬 **About Me**
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets-v2.lottiefiles.com%2Fa%2Ff75ac2f2-116a-11ee-aa38-a35154041321%2FUTSEH078Aw.gif&tbnid=qQViMd7j3uvKPM&vet=1&imgrefurl=https%3A%2F%2Flottiefiles.com%2Ffree-animation%2Fgirl-on-computer-with-idea-vKx1wtZe5l&docid=9kVPrU54h49xHM&w=640&h=640&hl=en-US&source=sh%2Fx%2Fim%2Fm6%2F4&kgs=e2782beb83f68762 ">
 
 **👩‍💻 Frontend Developer from Pakistan**  
 **🎯 Passionate about AI & Beautiful User Interfaces**
