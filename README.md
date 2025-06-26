@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./banner.jpg)
 <div align="center">
 
 # 👋 Hey there! I'm **Laiba Jaweed** 
@@ -155,7 +155,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laiba-jaweed-ab74a7346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laibajaweed786@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laiba3009)
-[![Portfolio](https://laiba-jaweed-portfolio.netlify.app)
 
 ### 💬 **Open For:**
 - 🤝 Frontend Development Collaborations
