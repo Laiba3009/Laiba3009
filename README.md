@@ -1,3 +1,4 @@
+![Banner]()
 <div align="center">
 
 # 👋 Hey there! I'm **Laiba Jaweed** 
@@ -12,8 +13,6 @@
 ---
 
 ## 🧬 **About Me**
-
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets-v2.lottiefiles.com%2Fa%2Ff75ac2f2-116a-11ee-aa38-a35154041321%2FUTSEH078Aw.gif&tbnid=qQViMd7j3uvKPM&vet=1&imgrefurl=https%3A%2F%2Flottiefiles.com%2Ffree-animation%2Fgirl-on-computer-with-idea-vKx1wtZe5l&docid=9kVPrU54h49xHM&w=640&h=640&hl=en-US&source=sh%2Fx%2Fim%2Fm6%2F4&kgs=e2782beb83f68762 ">
 
 **👩‍💻 Frontend Developer from Pakistan**  
 **🎯 Passionate about AI & Beautiful User Interfaces**
